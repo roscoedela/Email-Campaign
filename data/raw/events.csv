@@ -1,0 +1,5 @@
+user_id,campaign_id,event_type,event_ts
+101,ONBOARD_001,open,2025-12-29 09:05:00
+101,ONBOARD_001,click,2025-12-29 09:06:00
+102,ONBOARD_001,open,2025-12-29 09:10:00
+103,REMIND_002,unsubscribe,2025-12-29 10:05:00

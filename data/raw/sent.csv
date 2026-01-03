@@ -1,0 +1,4 @@
+user_id,campaign_id,send_ts,email_type,subject
+101,ONBOARD_001,2025-12-29 09:00:00,onboarding,Welcome!
+102,ONBOARD_001,2025-12-29 09:01:00,onboarding,Welcome!
+103,REMIND_002,2025-12-29 10:00:00,reminder,Book your visit
